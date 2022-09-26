@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Vertilix](https://github.com/Vertilix) / Mike
-- 🌱 I’m currently learning: PHP and Javascript
+- 🌱 I’m currently learning: PHP and C#
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vertilix&show_icons=true&theme=radical)
